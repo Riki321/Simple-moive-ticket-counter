@@ -1,0 +1,6 @@
+***SCREEN***
+   E F G
+1  * * *    (+30 rupees)
+2  * * *    (+20 rupees)
+3  * * *    (+10 rupees)
+4  * * *    (+0 rupees)

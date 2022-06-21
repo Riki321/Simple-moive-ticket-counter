@@ -1,0 +1,9 @@
+Show: Kong
+Name: wer wert
+Gender: Female
+Theater: sinemax
+Selected seat: 1F
+Payment-Method: Offline
+Total Amount: 380
+Physically Disabled: YES
+Time: 12:00 to 3:00
