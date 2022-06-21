@@ -1,1 +1,1 @@
-# Simple-moive-ticket-counter
+# Simple-moive-ticket-counter in c++
