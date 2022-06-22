@@ -1,1 +1,1 @@
-# Simple-moive-ticket-counter in c++
+# Simple-movie-ticket-counter in c++
